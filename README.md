@@ -1,8 +1,15 @@
 # Testing cloud-optimized data files for L2 Satellite Data
+
+
 This work was done as part of the National Center for Atmospheric Research (NCAR) Summer Internship in Parallel Computational Science (SIParCS)
 
 This repo is a series of workflow tests for various cloud-hosted data access methods. Additional material, past presentations, posters, and interactive code tutorials are available here: https://lucassterzinger.com/2021-siparcs-poster/
 
+Use the badge below to run this repository interactively in the browser. 
+
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/lsterzinger/cloud-optimized-satellite-data-tests/main)
+
+_Note: This environment will not be launched in the same region the data is located in, so some performance hits should be expected_
 
 # Test workflows
 ## GOES-16 Data:
