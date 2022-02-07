@@ -19,8 +19,8 @@ _More data for testing may be added in the future_
 | Format           | Preprocess Time | Dataset Open Time | Workflow Time | Storage Needed |
 |------------------|-----------------|-------------------|---------------|----------------|
 | netCDF4 (native) | 0 min           | 10 min            | 46 min        | 0 GB           |
-| Zarr             | 1 hr 38 min     | 30 sec            | 4 min 10 sec  | 416 MB         |
-| RefereceMaker    | 1 hr 25 min     | 35 sec            | 4 min 30 sec  | 52 GB          |
+| Zarr             | 1 hr 38 min     | 30 sec            | 4 min 10 sec  | 52 GB          |
+| RefereceMaker    | 1 hr 25 min     | 35 sec            | 4 min 30 sec  | _**416 MB**_         |
 
 # Contact me
 Email: [lsterzinger@ucdavis.edu](mailto://lsterzinger@ucdavis.edu)
