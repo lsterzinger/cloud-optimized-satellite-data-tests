@@ -8,7 +8,7 @@ This repo is a series of workflow tests for various cloud-hosted data access met
 ## GOES-16 Data:
 * [Original NetCDF4](./goes-16/netcdf/)
 * [Zarr](./goes-16/Zarr/)
-* [ReferenceMaker (fsspec)](./goes-16/ReferenceMaker/)
+* [ReferenceMaker (now Kerchunk)](./goes-16/ReferenceMaker/)
 
 Tests were performed on the [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) with data hosted on Azure Blob object storage. Both Planetary Computer and the data used were performed in the EU-West region.
 
